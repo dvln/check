@@ -4,9 +4,10 @@ package check_test
 
 import (
 	"errors"
-	. "github.com/dvln/check"
 	"os"
 	"sync"
+
+	. "github.com/dvln/check"
 )
 
 var runnerS = Suite(&RunS{})

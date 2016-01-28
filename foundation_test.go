@@ -8,11 +8,12 @@ package check_test
 
 import (
 	"fmt"
-	"github.com/dvln/check"
 	"log"
 	"os"
 	"regexp"
 	"strings"
+
+	"github.com/dvln/check"
 )
 
 // -----------------------------------------------------------------------

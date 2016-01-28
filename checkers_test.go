@@ -2,9 +2,10 @@ package check_test
 
 import (
 	"errors"
-	"github.com/dvln/check"
 	"reflect"
 	"runtime"
+
+	"github.com/dvln/check"
 )
 
 type CheckersS struct{}

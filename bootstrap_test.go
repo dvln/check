@@ -14,8 +14,9 @@ package check_test
 
 import (
 	"fmt"
-	"github.com/dvln/check"
 	"strings"
+
+	"github.com/dvln/check"
 )
 
 type BootstrapS struct{}
